@@ -1,5 +1,5 @@
 # jenkins-test
-test the pipeline for jenkins automation
+Test pipeline for Jenkins Build Automation
 
 Jenkins is a widely used CI tool which helps DevOps teams in automating the multiple tasks. The use of Jenkins has widely increased over a period of time due to a rich set of functionalities which it provides in the form of plugins. Jenkins has plugins for automating almost everything at the infrastructure level. In this blog, I am going to explain the use of “Delivery Pipeline View” plugin of Jenkins by which we can setup complete continuous delivery pipeline.
 
